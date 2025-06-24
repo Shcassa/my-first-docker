@@ -27,5 +27,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Shcassa/flask-k8s-app:latest
+          tags: ghcr.io/shcassa/flask-k8s-app:latest
+
 
