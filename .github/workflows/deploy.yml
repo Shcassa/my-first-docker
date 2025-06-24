@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/flask-k8s-app:latest
+          tags: oldsoldierisgone/flask-k8s-app:latest
 
