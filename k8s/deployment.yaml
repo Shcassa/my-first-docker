@@ -6,11 +6,11 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: flask-app
+      app: flask
   template:
     metadata:
       labels:
-        app: flask-app
+        app: flask
     spec:
       containers:
         - name: flask
